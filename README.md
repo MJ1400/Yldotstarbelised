@@ -1,1 +1,1 @@
-# Yldotstarbelised
+# Üldotstarbelised arendusplatvormid
