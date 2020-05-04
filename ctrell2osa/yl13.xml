@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>yl13</name>
+    </assembly>
+    <members>
+        <member name="T:Lapid2.Lapp">
+            <summary>
+            Lappide hoiustamise klass
+            </summary>
+        </member>
+        <member name="F:Lapid2.Lapp.x">
+            <summary>
+               Muutuja ainult lugemiseks. 
+               Andmed sisestatavad vaid konstruktoris.
+            </summary>
+        </member>
+        <member name="M:Lapid2.Lapp.#ctor(System.Int32,System.Int32,System.String)">
+            <summary>
+               Lapi algandmed
+            </summary>
+        </member>
+        <member name="M:Lapid2.Lapp.Pindala">
+            <summary>
+               Arvutab pindala
+            </summary>
+        </member>
+        <member name="T:Lapid2.Lapiproov">
+            <summary>
+               Proovklass
+            </summary>
+        </member>
+    </members>
+</doc>
